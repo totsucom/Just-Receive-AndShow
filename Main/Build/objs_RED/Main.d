@@ -1,5 +1,5 @@
 objs_RED/Main.o: \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/Main/Source/Main.c \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/Main/Source/Main.c \
  c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/string.h \
  c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/_ansi.h \
  c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/newlib.h \
@@ -26,35 +26,35 @@ objs_RED/Main.o: \
  c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/machine/types.h \
  c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/sys/stdio.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/HardwareApi/Include/AppHardwareApi_JN516x.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/utils.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_event.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_TxRxQueue.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/utils.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_event.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_TxRxQueue.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_sap.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_sap_CombinedMac.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_pib.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_pib_CombinedMac.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_config.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_sap.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/ByteQueue.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_packets.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/AppQueueApi_ToCoNet.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/ByteQueue.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_packets.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/AppQueueApi_ToCoNet.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi_JN5169.h \
  c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi_JN516x.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_NbScan.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_Common.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_LayerTree.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_DuplicateChecker.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/serial.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/uart.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/sprintf.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_prototype.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Channel_Mgr.h \
- c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_MessagePool.h
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_NbScan.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_Common.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_LayerTree.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_DuplicateChecker.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/serial.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/uart.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/sprintf.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_prototype.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Channel_Mgr.h \
+ c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_MessagePool.h
 
 c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/include/string.h:
 
@@ -108,13 +108,13 @@ c:\mwsdk\tools\ba-elf-ba2-r36379\bin\../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/
 
 c:/MWSDK/ChipLib/SW4063V1416/Components/HardwareApi/Include/AppHardwareApi_JN516x.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/utils.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/utils.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_event.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_event.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_TxRxQueue.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_TxRxQueue.h:
 
 c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_sap.h:
 
@@ -128,13 +128,13 @@ c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_config.h:
 
 c:/MWSDK/ChipLib/SW4063V1416/Components/MAC/Include/mac_sap.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/ByteQueue.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/ByteQueue.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_packets.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_packets.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/AppQueueApi_ToCoNet.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/AppQueueApi_ToCoNet.h:
 
 c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi.h:
 
@@ -142,26 +142,26 @@ c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi_JN5169.h:
 
 c:/MWSDK/ChipLib/SW4063V1416/Components/AppApi/Include/AppApi_JN516x.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_NbScan.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_NbScan.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_Common.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_Common.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_LayerTree.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_LayerTree.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_DuplicateChecker.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_DuplicateChecker.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/serial.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/serial.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/uart.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/uart.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/sprintf.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/sprintf.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNetUtils/fprintf.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_prototype.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_prototype.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Channel_Mgr.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Channel_Mgr.h:
 
-c:/MWSDK/Wks_TWELITE/Test07-Just-Receive/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_MessagePool.h:
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/include/ToCoNet/ToCoNet_mod_Nwk_MessagePool.h:

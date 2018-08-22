@@ -1,0 +1,1068 @@
+Archive member included because of file (symbol)
+
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_event.o)
+                              objs_RED/Main.o (symbol from plugin) (PRSEV_u8Register)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_main.o)
+                              objs_RED/Main.o (symbol from plugin) (u32TickCount_ms)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_utils.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetVersion)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_mod_Tx.o)
+                              objs_RED/Main.o (symbol from plugin) (ToCoNet_vReg_mod_Tx_Standard)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_mod_TxRxQueue.o)
+                              objs_RED/Main.o (symbol from plugin) (ToCoNet_vReg_mod_TxRxQueueMid)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_mod_Nwk_Common.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_vRxProc_Mod)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(ToCoNet_mod_Channel_Mgr.o)
+                              ToCoNet_mod_Tx.o (symbol from plugin) (ToCoNet_ChMgr_bCh_OnTx)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetVersionInfo)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a(AppQueueApi_ToCoNet.o)
+                              ToCoNet_main.o (symbol from plugin) (u32AppQApiInitInt_PATCH)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(AppStart.o)
+                              (AppColdStart)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(getMacAddr.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetSerialOnBoot)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(mac.o)
+                              ToCoNet_main.o (symbol from plugin) (Mac_vInit)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(AES_CCM.o)
+                              AppStart.o (symbol from plugin) (bAES_CCM_KeyReg)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(no_ack_handler.o)
+                              AppStart.o (symbol from plugin) (vInstallNoAckHandler)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetExtVersionInfo)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(serial.o)
+                              objs_RED/Main.o (symbol from plugin) (SERIAL_vInit)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(uart.o)
+                              serial.o (symbol from plugin) (UART_vInit)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(ByteQueue.o)
+                              ToCoNet_main.o (symbol from plugin) (QUEUE__vInit)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(ccitt8.o)
+                              AppStart.o (symbol from plugin) (u8CCITT8)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(fprintf.o)
+                              objs_RED/Main.o (symbol from plugin) (vfPrintf)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(sprintf.o)
+                              objs_RED/Main.o (symbol from plugin) (SPRINTF_vInit128)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(utils.o)
+                              ToCoNet_main.o (symbol from plugin) (vTimerConfig)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(ccm.o)
+                              AES_CCM.o (symbol from plugin) (ccm_init_and_key)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetUtilsVersionInfo)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(aescrypt.o)
+                              ccm.o (symbol from plugin) (aes_encrypt)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(aeskey.o)
+                              ccm.o (symbol from plugin) (aes_encrypt_key)
+c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a(aestab.o)
+                              aeskey.o (symbol from plugin) (t_im)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppApi.o)
+                              (pvAppApiDefGetMacHandle)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppApiSleep.o)
+                              (vAppApiDefSaveMacSettings)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_main.o)
+                              AppApi.o (symbol from plugin) (MAC_pvCtor)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_mcps.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMcpsReqRsp)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_mlme.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMlmeReqRsp)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pib.o)
+                              AppStart.o (symbol from plugin) (MAC_psPibGetHandle)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pib_mlme.o)
+                              mac_main.o (symbol from plugin) (mac_vPibSetDefaults)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pmic.o)
+                              mac_main.o (symbol from plugin) (vPMICreset)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_ind.o)
+                              AppApi.o (symbol from plugin) (MAC_vRegisterMlmeDcfmIndCallbacks)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_scan.o)
+                              mac_main.o (symbol from plugin) (mac_eScanInit)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_lp.o)
+                              mac_pmic.o (symbol from plugin) (g_sLP)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(MCPS.o)
+                              mac_mcps.o (symbol from plugin) (vTAM_MCPSdataRequest)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(phy_pib.o)
+                              AppApi.o (symbol from plugin) (phy_ePibGet)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM.o)
+                              MCPS.o (symbol from plugin) (bTAMinPAN)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMCO.o)
+                              TAM.o (symbol from plugin) (vTAMCOsetCoordinator)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMDE.o)
+                              TAM.o (symbol from plugin) (vTAMDEdetermineNullState)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_MEM.o)
+                              TAM.o (symbol from plugin) (vMEMreset)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_MLME.o)
+                              mac_scan.o (symbol from plugin) (vMLMEbeaconNotify)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAH.o)
+                              TAMCO.o (symbol from plugin) (vTAHsetCutOff)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAI.o)
+                              TAM.o (symbol from plugin) (vTAIsetCapTime)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAT.o)
+                              TAMDE.o (symbol from plugin) (vTATstartReceiveAt)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMcommon.o)
+                              mac_scan.o (symbol from plugin) (bTACassessBeaconForPayload)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMevent.o)
+                              mac_lp.o (symbol from plugin) (vTAMinsertEvent)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMqueue.o)
+                              TAMcommon.o (symbol from plugin) (vTAQaddToFifo)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMrxEnable.o)
+                              TAMevent.o (symbol from plugin) (vTAMRXEint2Fired)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMsecurity.o)
+                              TAMcommon.o (symbol from plugin) (vTSCgetIncomingInfo)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMsideways.o)
+                              mac_pmic.o (symbol from plugin) (eTAStransmitRequest)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMtime.o)
+                              TAM.o (symbol from plugin) (vTTIBLETimerExpired)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_AES.o)
+                              TAMsecurity.o (symbol from plugin) (u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(Endian.o)
+                              TAM_AES.o (symbol from plugin) (vFromU16ToLe)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_acl.o)
+                              TAMsecurity.o (symbol from plugin) (MAC_u8AclFindInfo)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_misc.o)
+                              mac_mlme.o (symbol from plugin) (vMAC_MISCpollRequest)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a(tsv_main.o)
+                              AppApiSleep.o (symbol from plugin) (s_sTimerList)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_main.o)
+                              AppApi.o (symbol from plugin) (XCV_vCtor)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_access.o)
+                              mac_main.o (symbol from plugin) (XCV_vDevWriteIER)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_isr.o)
+                              AppApi.o (symbol from plugin) (vXCV_IntHandlerPhy)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a(MMAC.o)
+                              phy_pib.o (symbol from plugin) (vMMAC_SetChannelAndPower)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a(MMAC_RadioInit_JN5169.o)
+                              xcv_main.o (symbol from plugin) (vMMAC_ConfigureRadio)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a(JPT_RadioTxPowerTests.o)
+                              AppApi.o (symbol from plugin) (vJPT_CustomBmodTable)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a(JPT_RadioSettings_JN5169.o)
+                              MMAC_RadioInit_JN5169.o (symbol from plugin) (bJPT_InitRadio_JN5169)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorCCM.o)
+                              AES_CCM.o (symbol from plugin) (bACI_CCMstar)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              TAM_AES.o (symbol from plugin) (vACI_OptimisedCcmStar)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              AES_CCM_Star.o (symbol from plugin) (vACI_CmdWaitBusy)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Analogue.o)
+                              utils.o (symbol from plugin) (bAHI_APRegulatorEnabled)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Dio.o)
+                              objs_RED/Main.o (symbol from plugin) (vAHI_DioSetDirection)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Reset.o)
+                              ToCoNet_main.o (symbol from plugin) (vAHI_SwReset)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Spi.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_SpiRegisterCallback)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_System.o)
+                              AppApiSleep.o (symbol from plugin) (u8AHI_PowerStatus)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Timer.o)
+                              utils.o (symbol from plugin) (vAHI_TimerEnable)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_TimerInt.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_Timer0RegisterCallback)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Uart.o)
+                              uart.o (symbol from plugin) (vAHI_UartSetBaudDivisor)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_WakeTimer.o)
+                              ToCoNet_utils.o (symbol from plugin) (vAHI_WakeTimerEnable)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_FlashIndexSector.o)
+                              AppStart.o (symbol from plugin) (bAHI_ReadMACID)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Si.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_SiRegisterCallback)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_TickTimer.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_TickTimerInit)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+                              AppApi.o (symbol from plugin) (vAHI_InterruptSetPriority)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Init.o)
+                              AppStart.o (symbol from plugin) (u32AHI_Init)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_SpiSlave.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiSlave)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroInt_ba.o)
+                              serial.o (symbol from plugin) (vMicroIntEnableOnly)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              (_exception_external_interrupt)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppHousekeeping.o)
+                              mac_scan.o (symbol from plugin) (sAppHousekeeping)
+c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPIinterrupts.o)
+                              AHI_Init.o (symbol from plugin) (vACI_IntHandlerAes)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o (memcmp)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o (memcpy)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o (memset)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o (__udivsi3)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o (__divsi3)
+c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o (__umodsi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+apvHwIndBufferData  0x2c              AppQueueApi_ToCoNet.o (symbol from plugin)
+prMAC_TofMlmeReqHandler
+                    0x4               mac_mlme.o (symbol from plugin)
+apvMlmeIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+_TWENET_TX_POWER_VALUE
+                    0x1               AppStart.o (symbol from plugin)
+g_tSpiConfiguration
+                    0x4               AHI_Flash.o (symbol from plugin)
+SPRINTF_Stream      0x4               sprintf.o (symbol from plugin)
+u8TAM_TxStatusOverride
+                    0x1               TAMevent.o (symbol from plugin)
+prMAC_TofRxHandler  0x4               TAMcommon.o (symbol from plugin)
+_MAC_u8TxFailReason
+                    0x1               mac.o (symbol from plugin)
+apvMcpsIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+bAHI_ExtendedTemperatureOperation
+                    0x1               AHI_System.o (symbol from plugin)
+bMAC_DiscardUnsuccessfulAssocResponses
+                    0x1               mac_pmic.o (symbol from plugin)
+u8Msq               0x1               TAM_TAT.o (symbol from plugin)
+g_bLegacyHwBugEmulation
+                    0x1               AES_CCM_Star.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 objs_RED/Main.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .data          0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .text          0x0000000000000000        0x0 ToCoNet_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Tx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_TxRxQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Nwk_Common.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Channel_Mgr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppQueueApi_ToCoNet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppStart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 getMacAddr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 no_ack_handler.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ByteQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccitt8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 sprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aescrypt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aeskey.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aestab.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApiSleep.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pmic.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_ind.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_lp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MCPS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 phy_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMCO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMDE.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MEM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MLME.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAH.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAT.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMcommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMevent.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMqueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMrxEnable.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsecurity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsideways.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMtime.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_AES.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_acl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_misc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tsv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_access.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_isr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC_RadioInit_JN5169.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JPT_RadioTxPowerTests.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JPT_RadioSettings_JN5169.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorCCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_FlashIndexSector.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Si.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Init.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_SpiSlave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt_ba.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .data          0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .bss           0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 AppHousekeeping.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPIinterrupts.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000080000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD objs_RED/Main.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans12.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+LOAD C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a
+START GROUP
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libTOF_JN516x.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a
+LOAD c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libPDM_EEPROM_JN516x_NO_RTOS.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENET_RED.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENEText_RED.a
+LOAD c:/MWSDK/Wks_TWELITE/Just-Receive-AndShow/../../TWENET/L1200/lib/libTWENETutils_RED.a
+END GROUP
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x0000000000000800                _stack_size = 0x800
+                0x0000000000080038                exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x0000000000000d16]                __minimum_heap_size = DEFINED (__minimum_heap_size)?__minimum_heap_size:0xd16
+                [0x0000000000000800]                __stack_size = DEFINED (__stack_size)?__stack_size:0x800
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0xf03000b
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0xa268 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x8a258 ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0x4 ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x17 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x66a ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x85b80 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x89890 ABSOLUTE (AppColdStart)
+                0x0000000000000000                _enc_offset = (_enc_start & 0xf)
+                0x0000000000000044                PROVIDE (vException_BusError, restore_state)
+                0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
+                0x0000000000000044                PROVIDE (vException_IllegalInstruction, restore_state)
+                0x0000000000000044                PROVIDE (vException_SysCall, restore_state)
+                0x0000000000000044                PROVIDE (vException_Trap, restore_state)
+                0x0000000000000044                PROVIDE (vException_StackOverflow, restore_state)
+                0x0000000000080038                . = ABSOLUTE (exception_vsr_table)
+
+.vsr_table      0x0000000000080038       0x18
+                0x0000000000080038        0x4 LONG 0x44 ABSOLUTE (vException_BusError)
+                0x000000000008003c        0x4 LONG 0x44 ABSOLUTE (vException_UnalignedAccess)
+                0x0000000000080040        0x4 LONG 0x44 ABSOLUTE (vException_IllegalInstruction)
+                0x0000000000080044        0x4 LONG 0x44 ABSOLUTE (vException_SysCall)
+                0x0000000000080048        0x4 LONG 0x44 ABSOLUTE (vException_Trap)
+                0x000000000008004c        0x4 LONG 0x44 ABSOLUTE (vException_StackOverflow)
+
+.vsr_handlers   0x0000000000080050       0xaa
+ *(.vsr_handlers)
+ .vsr_handlers  0x0000000000080050       0xaa c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000000080050                _exception_external_interrupt
+                0x00000000000800f8                _default_vsr_dummy
+
+.rodata         0x00000000000800fc      0x4c0
+ *(.rodata*)
+ .rodata        0x00000000000800fc      0x1cb C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ *fill*         0x00000000000802c7        0x1 00
+ .rodata        0x00000000000802c8       0xd4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+                0x00000000000802c8                s_aprScanHandleEvt.10437
+                0x00000000000802f8                apvActionCalls
+                0x0000000000080380                aprLPBMacVectorRamTable
+                0x0000000000080394                psTamMacContext
+                0x0000000000080398                psTAMcontext
+ .rodata        0x000000000008039c        0xa C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+ *fill*         0x00000000000803a6        0x2 00
+ .rodata        0x00000000000803a8       0x34 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+                0x00000000000803b0                psTamXcvContext
+                0x00000000000803b4                CSWTCH.35.20917.20917
+                0x00000000000803c8                au32TimerBaseAddress
+ .rodata.str1.1
+                0x00000000000803dc       0x24 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+ .rodata        0x0000000000080400       0x6b C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+ .rodata        0x000000000008046b        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+ .rodata        0x000000000008046f       0x17 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+ .rodata        0x0000000000080486        0x6 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+                0x0000000000080486                aeXcvPhyEvtToScanEvt.5424.10440
+ .rodata.str1.1
+                0x000000000008048c       0x22 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+ *fill*         0x00000000000804ae        0x2 00
+ .rodata        0x00000000000804b0       0x38 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+                0x00000000000804b0                asStateFuncTbl.2372
+ .rodata        0x00000000000804e8       0x14 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+ .rodata        0x00000000000804fc       0x18 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+ .rodata.str1.1
+                0x0000000000080514        0xf C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+                                         0x20 (size before relaxing)
+ *fill*         0x0000000000080523        0x1 00
+ .rodata        0x0000000000080524        0x8 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+                0x0000000000080524                au32UartAddrOffset
+ .rodata.str1.1
+                0x000000000008052c       0x11 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+ *fill*         0x000000000008053d        0x3 00
+ .rodata        0x0000000000080540       0x7c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+                0x0000000000080574                u32MacLow_TOCOS
+                0x0000000000080578                u32MacHigh_TOCOS
+
+.text           0x00000000000805bc     0x9c9a
+ *(.text*)
+ .text          0x00000000000805bc     0x1539 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+                0x00000000000805bc                vAHI_IntHandlerAnalogPeriph
+                0x00000000000805dc                vTTIBLETimerExpired
+                0x00000000000805e7                mac_vLPBAdjustBeaconOffset
+                0x0000000000080644                mac_u32LPBGetBeaconTimeout
+                0x000000000008064d                eWEnDTmrExpiry.10078
+                0x0000000000080658                eWEnDEdDone.10075
+                0x00000000000806b3                eGenlDontCare.10072
+                0x00000000000806b8                eGenlIllegal.9697
+                0x00000000000806bf                u32GetTimer0
+                0x00000000000806c6                vSetTimer0
+                0x00000000000806d5                SPRINTF_bPutChar.4577
+                0x0000000000080711                vHandlerPatch.4290
+                0x0000000000080748                u8HwEventHandler.1683
+                0x0000000000080767                vACI_CmdWaitBusy
+                0x00000000000807cb                vACI_OptimisedCcmStar
+                0x00000000000809e3                vTAIdisableInterrupt
+                0x00000000000809fc                psRemove.part.0.19637
+                0x0000000000080a2b                MAC_u8AclFindInfo
+                0x0000000000080b55                vTASretrieveSecurity
+                0x0000000000080b77                MAC_bLookUpKeyDescriptor.17189
+                0x0000000000080bf1                u8TSCframeIncrease
+                0x0000000000080c2a                vCopyToDataFromMacAddr.17099
+                0x0000000000080c5d                bTSCgetOutgoingInfo
+                0x0000000000080d66                psTAQsearchFifo
+                0x0000000000080daf                bTAQremoveFromFifo
+                0x0000000000080dec                vTAMinsertEvent
+                0x0000000000080e52                vTTITimer2Expired
+                0x0000000000080e56                vTTITimer1Expired
+                0x0000000000080e5a                vTAM_TxRetryTimeout
+                0x0000000000080e5e                vTACsetTxFrameDefaults
+                0x0000000000080e84                u8TACgetHeaderSize
+                0x0000000000080ec1                bUpdateTime.15417
+                0x0000000000080efc                u32TACpayloadToU32M
+                0x0000000000080f1d                vTACu32ToPayloadM
+                0x0000000000080f35                vTACbuildBeacon
+                0x000000000008113d                bTACframeInProgress
+                0x0000000000081167                bTACassessBeaconForPayload
+                0x00000000000811b8                bIsBbcSafeForTx
+                0x00000000000811ed                vTATwriteAclMaterialToHardware
+                0x0000000000081212                vTATsetBLE
+                0x0000000000081249                vTATgetFramePayload
+                0x0000000000081266                eTATreadTXstatus
+                0x00000000000812ac                vTAHsetPhyStateDirect.part.0.14558
+                0x00000000000812c8                vDoGoOff.16379
+                0x00000000000812e2                vMEMreturn
+                0x0000000000081353                vTACinformOriginator
+                0x0000000000081375                vTTITransactionTimerExpired
+                0x000000000008139d                pvMEMget
+                0x00000000000813c9                vTAMDEdetermineNullState
+                0x00000000000813e3                vTAMCOupdatePendingList
+                0x00000000000814b5                vTAMCOsetCoordinator
+                0x00000000000814db                eScanHandleEvt.part.0.10108
+                0x0000000000081504                mac_eDcfmIndPost
+                0x0000000000081525                mac_psDcfmIndGetBuf
+                0x0000000000081546                vMAC_MISCpollConfirm
+                0x0000000000081576                vMLMErxEnableConfirm
+                0x00000000000815a8                vMLMEcommStatus
+                0x000000000008160b                vMLMEcommStatusFromFrame
+                0x000000000008164f                vTSCpostTransmitUpdate
+                0x000000000008167e                vMLMEsyncLoss
+                0x00000000000816b1                vPMICpostFailedAssocDcfm
+                0x00000000000816e9                vPMICassocReqTO_2.8525
+                0x0000000000081700                MAC_vPibSetPanId
+                0x000000000008171b                vHandleTofRequest.6631
+                0x000000000008171e                vAppApiDefSetPrbsSeed
+                0x0000000000081742                u8CCITT8
+                0x0000000000081768                Mac_vInit
+                0x00000000000817b4                bAES_CCM_KeyReg
+                0x00000000000817f3                bFifoPush.3013
+                0x000000000008182c                vAppQApiPostMlme.2999
+                0x000000000008184b                vAppQApiPostMcps.3006
+                0x0000000000081866                pvFifoPull.3010
+                0x000000000008188d                psAppQApiGetMlmeBuffer.2996
+                0x0000000000081895                psAppQApiGetMcpsBuffer.3003
+                0x000000000008189d                ToCoNet_vReg_mod_TxRxQueueMid
+                0x000000000008191e                PRSEV_vSetState
+                0x000000000008192e                PRSEV_u8Register
+                0x0000000000081960                PRSEV_vProcessEv_core.1479
+                0x00000000000819fc                PRSEV_vProcessEvPost
+                0x0000000000081a2e                _PRSEV_vProcessEvSingle
+                0x0000000000081a3b                vHnd_E_STATE_FINISH_TX_FAIL.2316
+                0x0000000000081ae8                ToCoNet_vMacStart
+ .text.unlikely
+                0x0000000000081af5        0xf C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+                0x0000000000081af5                _PRSEV_vProcessEvSingleH
+ *fill*         0x0000000000081b04        0x0 00
+ .text          0x0000000000081b04      0xba0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+                0x0000000000081b04                eWBRTTxDone.10094
+                0x0000000000081b22                vTAMCOframeTXgoingIdle
+                0x0000000000081b3b                vTAMCOframeTXcap
+                0x0000000000081b5f                eWCoRRxDone.10085
+                0x0000000000081c09                eWBcnRxDone.10097
+                0x00000000000821f2                vTAMCOframeRXcap
+                0x0000000000082204                vTAMCOframeRXgoingIdle
+                0x000000000008221a                vTAMCOframeRXnobeacon
+                0x000000000008222c                vTAMDEframeRX
+                0x0000000000082254                vTAMDEframeRXtrackingDR
+                0x0000000000082297                vTAMDEframePreSyncReq
+                0x00000000000822af                vTAMCOframeTXbeacon
+                0x0000000000082376                vTAMDEframeRXsyncReq
+                0x00000000000825c5                vTAMDEint1FiredTrackingCAPgts
+                0x0000000000082676                eWONTTxDone.10091
+ .text          0x00000000000826a4      0xb52 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+                0x0000000000082804                bAES_CCM_EncodeKey
+                0x00000000000828b1                SERIAL_vTxReady
+                0x00000000000828e9                vAppQApiPostHwIntT.2992
+                0x0000000000082966                vRxChar.4315
+                0x00000000000829ec                bTAM_AES_CCMstarPatch
+                0x0000000000082b30                bTAM_AES_CCMstarPatch2006
+                0x0000000000082e0f                bTATsendFrame
+                0x0000000000082e62                vTrySendFromDirectCAP.12672
+                0x0000000000082e7d                vTrySendFromDirectNoBeacon.12676
+                0x0000000000082ea8                vTAMCOint1Fired
+                0x0000000000082fc4                vTAMCOreqTXnoBeacon
+                0x0000000000082fd5                vTAMCOreqTXinCAP
+                0x0000000000082ffa                vTrySendUnslotted.13217
+                0x0000000000083013                bSendDataRequest.13219
+                0x0000000000083125                bProcessBeaconRX.13222
+ .text          0x00000000000831f6      0x342 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+                0x00000000000831f6                u32AppApiDefInit
+                0x00000000000834d1                vProcessEvCoreMac
+ .text.unlikely
+                0x0000000000083538      0x484 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+                0x0000000000083538                ToCoNet_vStart
+ .text          0x00000000000839bc      0xc59 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+                0x0000000000083af7                vProcessEvCoreTx.2308
+                0x0000000000083b76                vHnd_E_STATE_FINISH_TX_SUCCESS.2321
+                0x0000000000083bf5                bAHI_ReadMACID
+                0x0000000000083c3b                vTAMRXEsetPhy
+                0x0000000000083cfe                vTAHsetPhyState
+                0x0000000000083d2e                vTAMCOint2Fired
+                0x0000000000083d4e                vSetPHYfromMacValue.13215
+                0x0000000000083d80                vTAMDEint1FiredWaitDR
+                0x0000000000083d8d                vTACsetPHYfromMacValue
+                0x0000000000083dae                vTAMRXEsetReceiveForPibChange
+                0x0000000000083dee                ToCoNet_vInit
+                0x0000000000084119                vExpireHead.19642
+                0x0000000000084149                vfPrintf.constprop.49
+                0x00000000000842e4                vProcessEvCore.1357
+                0x0000000000084332                vMicroIntEnableOnly.constprop.45
+                0x000000000008435e                vMMAC_SetChannelAndPower
+                0x0000000000084507                vPhySetChannel
+                0x0000000000084526                QUEUE__u8RemoveItem
+                0x0000000000084580                QUEUE__vAddItem.constprop.44
+                0x00000000000845b2                vHnd_E_STATE_IDLE.2331
+                0x0000000000084607                vAHI_ProtocolPower.constprop.41
+ .text.unlikely
+                0x0000000000084615        0xf C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+                0x0000000000084615                u32AppQApiInitInt_PATCH
+ .text          0x0000000000084624      0xa84 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+                0x0000000000084624                vAHI_IntHandlerTickTimer
+                0x000000000008466b                vTACintRXheader
+                0x0000000000084e66                SERIAL_bTxChar
+                0x0000000000084f13                vTAMCOint1FiredCAP
+                0x0000000000084f86                vTAMCOstartBeacon
+                0x0000000000084fc2                vStartStoreValues.12740
+                0x0000000000085079                bStartCallback.12769
+ .text          0x00000000000850a8      0x881 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+                0x00000000000850a8                UART_vHandleUartInterrupt.4415
+                0x0000000000085133                vXCV_IntHandlerPhy
+                0x00000000000851e5                vScanHandleTimer.9694
+                0x00000000000851ea                bAES_CCM_DecodeKey
+                0x00000000000852a6                vXCV_IntHandlerBbc
+                0x0000000000085349                vHnd_E_STATE_RUNNING.2347
+                0x000000000008559b                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x000000000008560d                u32AHI_ReadIndexSectorBits.constprop.9
+                0x000000000008566e                vTAIsetCapTime
+                0x000000000008568f                vTAIsetRxEnableTime
+                0x00000000000856b0                vDoGoActive.16381
+                0x00000000000856d2                vTAMRXEint2Fired
+                0x0000000000085708                vMLMEbeaconNotify
+                0x0000000000085866                vMCPSframeReceived
+ .text.unlikely
+                0x0000000000085929      0x181 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+                0x00000000000859a2                bStartXtal32k.20588
+ *fill*         0x0000000000085aaa        0x2 00
+ .text          0x0000000000085aac      0xa2c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+                0x0000000000085aac                vPostDcfm.10081
+                0x0000000000085b80                AppWarmStart
+                0x0000000000085bfc                vSetNextChannel.10129
+                0x0000000000085c55                MAC_vHandleMlmeReqRsp
+                0x0000000000086405                vTAMDEint1FiredTracking
+                0x0000000000086474                vTAMDEint1FiredSyncReq
+ .text          0x00000000000864d8      0xb46 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+                0x00000000000864d8                TSV_eStart
+                0x00000000000865bc                eTAStransmitRequest
+                0x0000000000086957                TSV_eOpen
+                0x000000000008695f                vAppApiDefRestoreMacSettings
+                0x0000000000086a46                vAppApiDefSaveMacSettings
+                0x0000000000086aa3                mac_vLPBSleep
+                0x0000000000086b68                pvAppApiDefGetMacAddrLocation
+                0x0000000000086b71                eAppApiDefPlmeGet
+                0x0000000000086bc3                vHnd_E_STATE_PREPARE_TX.2326
+ .text          0x000000000008701e      0x8f0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+                0x0000000000087033                mac_vLPBStartTimer
+                0x000000000008733e                vTimerCallback.20564
+                0x00000000000873b4                vMMAC_ConfigureRadio
+                0x000000000008755f                bAHI_SetClockRate
+                0x000000000008766a                bAES_CCMstar
+                0x0000000000087736                pvHeap_Alloc
+                0x0000000000087739                u32AHI_Init
+                0x00000000000877fb                vMicroIntRestoreState
+                0x0000000000087807                vAHI_WakeTimerStop.part.3.21249
+                0x0000000000087827                mac_vLPBStopTimer
+                0x0000000000087831                vAHI_UartSetRTSCTS.part.15.21030
+                0x0000000000087858                vAHI_UartReset.part.4.21003
+                0x0000000000087890                vAHI_UartSetBaudDivisor.part.1.20983
+                0x00000000000878cf                vAHI_WatchdogStop
+                0x00000000000878e6                vAHI_DioSetOutput
+                0x00000000000878fa                vAHI_DioSetDirection
+ .text.unlikely
+                0x000000000008790e       0xd4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+                0x000000000008790e                vAHI_TimerEnable.part.1.20784.constprop.22
+                0x0000000000087979                vAHI_MemoryHold.20681
+                0x00000000000879be                vAHI_CpuDoze
+                0x00000000000879d1                vStartXtal32kExternalRc.20578
+ *fill*         0x00000000000879e2        0x2 00
+ .text          0x00000000000879e4      0x96c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+                0x00000000000879e4                vPMICassocReqTO_1.8518
+                0x0000000000087a6c                vTAM_MCPSdataRequest
+                0x0000000000087aaf                bTACcheckPANconflict
+                0x0000000000087b68                vTAMDEstartSync
+                0x0000000000087be7                eTAMselect
+                0x0000000000087d28                MAC_pvCtor
+                0x0000000000088151                vDeterminePowerState.13339
+                0x00000000000881d5                vTAMDEint1FiredTrackingBeacon
+                0x0000000000088275                vTAMDEint2FiredTrackingDR
+                0x000000000008829a                vTAMDEframeTXtrackingDR
+                0x00000000000882f3                vTAMDEint2FiredPollActive
+                0x0000000000088327                vTAMDEreqTXnullTrackingCAP
+                0x0000000000088340                vTAM_TxRetryTimer
+ .text          0x0000000000088350      0x7c1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+                0x0000000000088350                ToCoNet_vMain
+                0x0000000000088a7d                ToCoNet_ChMgr_vCh_TxFin
+                0x0000000000088aaa                vHnd_E_STATE_WAIT_TX.2339
+ *fill*         0x0000000000088b11        0x3 00
+ .text          0x0000000000088b14      0x780 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans12.ltrans.o
+                0x0000000000088b14                eGenTmrExpiry.10390
+                0x0000000000088b56                eWEDTEdDone.10393
+                0x0000000000088b7a                TSV_eStop
+                0x0000000000088c38                bPMICdisassocReqSent.8514
+                0x0000000000088cf2                MAC_vHandleMcpsReqRsp
+                0x0000000000088d7f                bMCPSframeTXcomplete.11125
+                0x0000000000088dd4                bSendSyncLoss.15352
+                0x0000000000088dec                bPollReqSent.18948
+                0x0000000000088e04                bTASsendCommStatusInd
+                0x0000000000088e19                bAssocRespSent.8510
+                0x0000000000088e2c                eTACprocessFrameTXcomplete
+                0x0000000000088fa9                vTAMCOframeTXnobeacon
+                0x0000000000088fbe                vTAMCOframeStarting
+                0x0000000000088fd7                vTAMDEframeTXDEnull
+                0x0000000000088ffa                vTAMDEframeTXtrackingCAPgts
+                0x0000000000089026                bPMICassocReqSent.8506
+                0x00000000000890a8                bPMICassocReqPollSent.8521
+                0x00000000000890fc                eWChCChanChgd.10105
+ .text          0x0000000000089294      0x5df C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+                0x0000000000089294                eGenRxHdrDone.10088
+                0x00000000000892a4                eAppApiDefPlmeSet
+                0x0000000000089315                _ToCoNet_bRfChChannel
+                0x000000000008937c                ToCoNet_ChMgr_bCh_Reconfig
+                0x00000000000893e4                vAppApiDefMcpsRequest
+                0x000000000008940f                vAppApiDefMlmeRequest
+                0x000000000008943a                pvAppApiDefGetMacHandle
+                0x0000000000089443                vInitHardware.1365
+                0x000000000008980e                cbAppColdStart.part.1.1369
+ .text.unlikely
+                0x0000000000089873       0x1d C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+                0x0000000000089873                Mac_vReset
+ .text          0x0000000000089890      0x551 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+                0x0000000000089890                AppColdStart
+ .text          0x0000000000089de1       0x25 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x0000000000089de1                memcmp
+ .text          0x0000000000089e06       0x19 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000089e1f       0x12 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x0000000000089e1f                memset
+ *fill*         0x0000000000089e31        0x3 00
+ .text          0x0000000000089e34      0x204 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x0000000000089e34                __udivsi3
+ .text          0x000000000008a038       0x30 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x000000000008a038                __divsi3
+ .text          0x000000000008a068      0x1b0 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000008a068                __umodsi3
+ .text          0x000000000008a218       0x27 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+                0x000000000008a218                vAHI_InterruptSetPriority
+                0x000000000008a236                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x000000000008a23f       0x17 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x000000000008a23f                vMicroSyscall
+                0x000000000008a256                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x000000000008a258        0x0
+ .rela.text     0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .rela.rodata   0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .rela.text.unlikely
+                0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .rela.data     0x0000000000000000        0x0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c       0x10 load address 0x000000000008a258
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+                0x000000000400004c                u8TxWkrNow.2449
+ *fill*         0x000000000400004d        0x3 00
+ .data          0x0000000004000050        0x8 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+                0x0000000004000050                u32HeapStart
+ .data          0x0000000004000058        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+ .data.initinboot
+                0x0000000004000059        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+                0x0000000004000059                gMAC_u8MaxBuffers
+ .data          0x000000000400005a        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+ *(.data.*)
+                0x000000000400005c                . = ALIGN (0x4)
+ *fill*         0x000000000400005b        0x1 00
+                0x000000000400005c                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x000000000400005c     0x19a8 load address 0x000000000008a268
+                0x000000000400005c                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x000000000400005c      0xb04 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .bss           0x0000000004000b60       0x40 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+                0x0000000004000b60                g_sLP
+                0x0000000004000b9c                g_pvMac
+ .bss.initinboot
+                0x0000000004000ba0      0x1c0 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+                0x0000000004000ba0                g_sMac
+ .bss           0x0000000004000d60        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+                0x0000000004000d60                prAppHwCallback.3237
+ .bss.dontinitinboot
+                0x0000000004000d64        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+ *fill*         0x0000000004000d65        0x3 00
+ .bss           0x0000000004000d68      0x170 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+                0x0000000004000d68                g_sXcv
+                0x0000000004000d6c                prMcpsRequest.5519
+                0x0000000004000d70                prMlmeRequest.5518
+                0x0000000004000d74                prOriginalHandler.4294
+                0x0000000004000d78                psRxQueueList.4160
+                0x0000000004000d8c                prTickTimeAppCallback
+                0x0000000004000d90                apfTimerAppCallback.20969
+                0x0000000004000da4                au16TimerSettings.20918
+                0x0000000004000db0                asEventHandler.1542
+                0x0000000004000e30                sEvVars
+                0x0000000004000e4c                u32TickCount_ms
+                0x0000000004000e50                au8Txdatabuff_idx_sTxQueue
+                0x0000000004000e54                u8TxBuffSiz_sTxQueue
+                0x0000000004000e58                sTxdatabuff_sTxQueue
+                0x0000000004000e5c                sTxQueue
+                0x0000000004000e78                au8Rxdatabuff_idx_sRxQueue
+                0x0000000004000e7c                u8RxBuffSiz_sRxQueue
+                0x0000000004000e80                sRxdatabuff_sRxQueue
+                0x0000000004000e84                sRxQueue
+                0x0000000004000ea0                au8Rxdatabuff_idx_sRxQueueCmd
+                0x0000000004000ea4                u8RxBuffSiz_sRxQueueCmd
+                0x0000000004000ea8                sRxdatabuff_sRxQueueCmd
+                0x0000000004000eac                sRxQueueCmd.1980
+ .bss           0x0000000004000ed8      0x738 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+                0x0000000004000ed8                prApAppCallback.20427
+                0x0000000004000edc                prSpiAppCallback.20552
+                0x0000000004000ee0                prSiAppCallback.21769
+                0x0000000004000ee4                prAppMcpsCallback.3235
+                0x0000000004000ee8                prAppMlmeCallback.3236
+                0x0000000004000eec                bTxEventQueued.16247
+                0x0000000004000eed                u8TxEventStatus.16248
+ .bss.initinboot
+                0x0000000004001610        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+                0x0000000004001610                prSysCtrlAppCallback.20760
+ .bss           0x0000000004001614        0x8 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+ .bss           0x000000000400161c       0x1c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+                0x000000000400161c                TxWorker_u8Num.2407
+                0x000000000400161d                gbTimeOutFlag.20756
+                0x0000000004001620                sAppHousekeeping
+ .bss           0x0000000004001638       0x70 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+                0x0000000004001638                sToCoNet_AppContext
+                0x0000000004001654                sToCoNet_Context
+                0x0000000004001698                sAssocSecurity.9135
+                0x00000000040016a4                g_bJenieBackwardsCompatibilityMode
+ .bss           0x00000000040016a8       0x34 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+                0x00000000040016a8                sCh_Context.2870
+                0x00000000040016ac                u8AppId_Pkt_head.4163
+                0x00000000040016b0                u32MyAddr.4162
+                0x00000000040016b4                u32AppId.4159
+                0x00000000040016b8                asTx.2406
+ .bss.initinboot
+                0x00000000040016dc        0x1 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+ *fill*         0x00000000040016dd        0x3 00
+ .bss           0x00000000040016e0        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+ .bss.dontinitinboot
+                0x00000000040016e4        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+ .bss           0x00000000040016e8        0x4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+                0x00000000040016e8                i8TxPower.11925
+ .bss.initinboot
+                0x00000000040016ec        0x8 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+                0x00000000040016ec                g_u32MacAddrLocation
+                0x00000000040016f0                prvUserTxStartedCallback
+ .bss           0x00000000040016f4       0x7c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+                0x00000000040016f4                sMcpsIndQueue.3231
+                0x0000000004001704                bRxQueue_Init.4161
+                0x0000000004001708                sMcpsIndBufferQueue.3229
+                0x0000000004001718                sMlmeIndQueue.3232
+                0x0000000004001728                sMlmeIndBufferQueue.3230
+                0x0000000004001738                sHwIndQueue.3233
+                0x0000000004001748                sHwIndBufferQueue.3234
+                0x0000000004001758                sSerStream.1429
+ .bss           0x0000000004001770       0x14 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans12.ltrans.o
+                0x0000000004001770                s_sTimerList
+                0x0000000004001780                u8AssocResponsesInProgress.9134
+ .bss           0x0000000004001784      0x1a4 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+                0x0000000004001784                prUart1AppCallback.21224
+                0x0000000004001788                prUart0AppCallback.21223
+                0x000000000400178c                asUARTS.4459
+                0x00000000040017ac                sOpt.4466
+                0x00000000040017bc                asSerialPorts
+                0x00000000040017f4                au8sprintf.4623
+                0x00000000040017f8                SPRINTF_MAX_BUFF.4625
+ .bss           0x0000000004001928       0x9c C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+                0x0000000004001928                sContext.4284
+                0x0000000004001954                TWENET_u8RFdevice_minor.3588
+                0x0000000004001955                TWENET_u8RFdevice_major.3587
+                0x0000000004001956                _TWENET_TX_POWER_MAX
+                0x0000000004001958                sToCoNet_Modules
+ .bss.dontinitinboot
+                0x00000000040019c4       0x40 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x00000000040019c4                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x0000000004001a04                . = ALIGN (0x4)
+                0x0000000004001a04                _bss_end = ABSOLUTE (.)
+                0x0000000004001a04                end = .
+
+.heap           0x0000000004001a04      0xd16 load address 0x000000000008bc10
+                0x0000000004001a04                _heap_start = ABSOLUTE (.)
+                0x000000000400271a                . = (. + __minimum_heap_size)
+ *fill*         0x0000000004001a04      0xd16 00
+
+.stack          0x0000000004007800      0x800 load address 0x0000000000091a0c
+                0x0000000004007800                _heap_end = ABSOLUTE (.)
+                0x0000000004007800                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + __stack_size)
+ *fill*         0x0000000004007800      0x800 00
+                0x0000000004008000                _stack = .
+
+.test           0x000000000008a268        0x1
+                0x000000000008a268        0x1 BYTE 0xff
+                0x000000000008a258                _flash_data_start = LOADADDR (.data)
+                0x0000000000000010                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x00000000000019a8                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x000000000000a268                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x0000000004000050                PROVIDE (_heap_location, u32HeapStart)
+                0x0000000004000050                PROVIDE (heap_location, u32HeapStart)
+                0x0000000000086957                TSV_eOpenVector = TSV_eOpen
+                0x00000000000864d8                TSV_eStartVector = TSV_eStart
+                0x0000000000088b7a                TSV_eStopVector = TSV_eStop
+                0x000000000008943a                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x00000000000831f6                u32AppApiInit = u32AppApiDefInit
+                0x000000000008940f                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x00000000000893e4                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x00000000000892a4                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x0000000000086b71                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x0000000000086b68                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x0000000000086a46                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x000000000008695f                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+OUTPUT(objs_RED/Just-Receive-AndShow_Main_RED_L1200_V0-1-1.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Maeoka\AppData\Local\Temp\ccvePENV.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x11 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                                         0x12 (size before relaxing)
+
+.debug_info     0x0000000000000000      0x596
+ .debug_info    0x0000000000000000       0xf3 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3      0x106 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000001f9       0xd7 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000002d0       0xb4 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x0000000000000384       0xb4 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_info    0x0000000000000438       0xb4 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_info    0x00000000000004ec       0xaa c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_abbrev   0x0000000000000000      0x210
+ .debug_abbrev  0x0000000000000000       0x8e c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0xa4 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000132       0x8e c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000001c0       0x14 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x00000000000001d4       0x14 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_abbrev  0x00000000000001e8       0x14 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_abbrev  0x00000000000001fc       0x14 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_loc      0x0000000000000000       0xeb
+ .debug_loc     0x0000000000000000       0x73 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x39 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000000ac       0x3f c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_aranges  0x0000000000000000       0xe0
+ .debug_aranges
+                0x0000000000000000       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_line     0x0000000000000000      0xe6e
+ .debug_line    0x0000000000000000      0x154 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000000154      0x148 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x000000000000029c      0x13e c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000003da      0x47b c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x0000000000000855       0xbb c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_line    0x0000000000000910      0x3c7 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_line    0x0000000000000cd7      0x197 c:/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_str      0x0000000000000000      0x1bf
+ .debug_str     0x0000000000000000      0x119 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x0000000000000119       0x5d c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x166 (size before relaxing)
+ .debug_str     0x0000000000000176       0x49 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x152 (size before relaxing)
+
+.debug_frame    0x0000000000000000       0x60
+ .debug_frame   0x0000000000000000       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000040       0x20 c:/mwsdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)

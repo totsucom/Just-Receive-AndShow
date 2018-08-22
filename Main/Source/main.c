@@ -1,7 +1,9 @@
 /*
  * 受信したらシリアルで表示。ただそれだけ。
  */
-#define _MONO_STICK
+
+// モノスティックでない場合は、下記定義をコメントにする
+#define _MONOSTICK
 
 #include <string.h>         // C 標準ライブラリ用
 #include <AppHardwareApi.h>
@@ -11,12 +13,19 @@
 #include "sprintf.h"        // SPRINTF 用
 #include "ToCoNet_mod_prototype.h" // ToCoNet モジュール定義(無線で使う)
 
+/*
+    パソコン側のシリアル通信の設定
+    ボーレート      115200
+    データ          ８ビット
+    パリティ        None(無し)
+    ストップビット   1ビット
+    フローコントロール None(無し)
+*/
 #define UART_BAUD 115200 	// シリアルのボーレート
-
 static tsFILE sSerStream;          // シリアル用ストリーム
 static tsSerialPortSetup sSerPort; // シリアルポートデスクリプタ
 
-// ToCoNet 用パラメータ
+// ToCoNet 用パラメータ。これは通信先のTWELITEと合わせておかないと受信できない！
 #define APP_ID   0x67721122
 #define CHANNEL  15
 
@@ -51,7 +60,7 @@ static void vInitHardware()
 	ToCoNet_vDebugInit(&sSerStream);
 	ToCoNet_vDebugLevel(0);
 
-#ifdef _MONO_STICK
+#ifdef _MONOSTICK
         //LED ON
         vPortAsOutput(16);
         vPortSetHi(16);
@@ -71,7 +80,7 @@ static void vProcessEvCore(tsEvent *pEv, teEvent eEvent, uint32 u32evarg)
     // データを受信した
     else if (eEvent == E_ORDER_KICK) {
         count = 5;
-#ifdef _MONO_STICK
+#ifdef _MONOSTICK
         //LED ON
         vPortSetLo(16);
 #endif
@@ -81,7 +90,7 @@ static void vProcessEvCore(tsEvent *pEv, teEvent eEvent, uint32 u32evarg)
     else if (eEvent == E_EVENT_TICK_TIMER) {
         if (count > 0) {
             if(--count == 0) {
-#ifdef _MONO_STICK
+#ifdef _MONOSTICK
                 //LED OFF
                 vPortSetHi(16);
 #endif
